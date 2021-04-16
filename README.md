@@ -1,2 +1,3 @@
 # studp
-Repository for Student Preneur Network
+Repository for Student Preneur Network.
+Learning things only.
